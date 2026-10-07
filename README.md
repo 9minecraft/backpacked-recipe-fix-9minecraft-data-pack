@@ -2,9 +2,15 @@
 
 **Data Pack for Minecraft 26.3** — standalone build, maintained by [9Minecraft Studios](https://www.9minecraft.net/).
 
-> ➤ **Download:** https://www.9minecraft.net/backpacked-recipe-fix-9minecraft-data-pack/
+[![Download](https://img.shields.io/badge/Download-9Minecraft.net-2ea44f?style=for-the-badge&logo=minecraft&logoColor=white)](https://9minecraft.net/backpacked-recipe-fix-9minecraft-data-pack/)
+
+> ➤ **Download:** https://9minecraft.net/backpacked-recipe-fix-9minecraft-data-pack/
 
 This repository is **documentation only** — it holds no mod files and no source code. Everything that can be downloaded lives on the page linked above.
+
+## About this data pack
+
+Backpacked Recipe Fix 9minecraft Data Pack patches the crafting recipe in the Backpacked mod. The original recipe asks for six rabbit hides, which can take a long time to gather in survival worlds. This data pack swaps the rabbit hides for regular leather so you can make your storage bag much faster. Features: Replaces the six rabbit hides in the backpack recipe with standard leather. Speeds up your early game storage progression in survival mode. Relies on Forge item tags to keep crafting simple and consistent.
 
 ## What this is
 
@@ -28,6 +34,18 @@ A build maintained by 9Minecraft Studios so this data pack runs on current Minec
 ## Source code
 
 The port source is not published here. If you need it — for review, for a fork, or to build it yourself — email **9minecraft.net@gmail.com** and we will send it over.
+
+## On the download page
+
+The repository stops here. These live on the download page:
+
+- the build itself — every supported Minecraft version and loader
+- step-by-step install instructions
+- the full screenshot gallery
+- what changed in each release
+- the mods this one needs alongside it, if any
+
+➤ **https://9minecraft.net/backpacked-recipe-fix-9minecraft-data-pack/**
 
 ## Credits
 
