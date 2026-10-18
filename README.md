@@ -4,6 +4,12 @@
 
 Built and maintained in-house by 9Minecraft Studios.
 
+## Versions
+
+| Minecraft |
+|---|
+| 26.3 |
+
 ## Source
 
 If you want the port source — for review, for a fork, or to build it yourself — ask at **9minecraft.net@gmail.com**.
