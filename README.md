@@ -9,6 +9,7 @@ Built and maintained in-house by 9Minecraft Studios.
 | Minecraft |
 |---|
 | 26.3 |
+| 1.21.11 | — |
 
 ## Source
 
